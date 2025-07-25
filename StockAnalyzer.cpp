@@ -92,3 +92,4 @@ void StockAnalyzer::searchByDate(string targetDate) {
         cout << "Date not found." << endl;
     }
 }
+
